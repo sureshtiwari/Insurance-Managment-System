@@ -1,0 +1,45 @@
+@CHARSET "ISO-8859-1";
+
+header {
+	background-color: transparent;
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
+
+nav {
+	line-height: 30px;
+	background-color: #eeeeee;
+	height: 300px;
+	width: 100px;
+	float: left;
+	padding: 5px;
+}
+
+section {
+	width: 500px;
+	float: left;
+	padding: 20px;
+	height: 688px;
+}
+
+footer {
+	background-color: white;
+	color: #0099ff;
+	clear: both;
+	text-align: center;
+	padding: 10px;
+}
+
+TextWrap {
+	float: left;
+	margin: 10px;
+}
+
+a {
+	color: black;
+}
+
+body {rgba (0,0,0,0.8);
+	
+}
